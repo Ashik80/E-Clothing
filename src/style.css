@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Aleo:wght@300&display=swap");
+@import "../node_modules/font-awesome/css/font-awesome.min.css";
+@import "../node_modules/slick-carousel/slick/slick.css";
+@import "../node_modules/slick-carousel/slick/slick-theme.css";
+@import "../node_modules/animate.css/animate.min.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Aleo", serif;
+  background-color: #f2f2f2;
+  height: 100vh;
+}

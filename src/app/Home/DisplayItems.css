@@ -1,0 +1,31 @@
+.display-item {
+  display: flex;
+  align-items: center;
+}
+
+.carousel-img {
+  display: flex;
+  width: 40%;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 1px 5px 10px 5px #c5cacd;
+}
+
+.display-header {
+  text-transform: uppercase;
+}
+
+.display-about {
+  width: 60%;
+  padding: 0 3rem;
+}
+
+.display-about > * {
+  margin: 1.5rem 0;
+}
+
+.display-about > h1,
+h4,
+p {
+  text-shadow: 1px 5px 5px #c5cacd;
+}
